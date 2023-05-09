@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/async-await-tutorial/master/async%20await.jpg)
+![Tutorial de Async Await en Javascript](https://raw.githubusercontent.com/sergiecode/async-await-tutorial/master/async%20await.jpg)
 
 # Async/Await en JavaScript
 
